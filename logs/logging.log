@@ -1,2 +1,57 @@
 [2025-05-04 10:55:44,923: INFO: main: Welcome to our customer logging data science ]
 [2025-05-04 10:55:49,522: INFO: main: Welcome to our customer logging data science ]
+[2025-05-04 14:10:20,533: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:10:20,542: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:11:05,654: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:11:05,658: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:11:05,662: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:11:11,001: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:11:11,004: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:11:11,034: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:11:46,728: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:11:46,733: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:11:46,735: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:12:06,649: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:12:06,652: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:12:06,654: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:13:24,730: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:13:24,735: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:13:24,737: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:14:45,190: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:14:45,193: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:14:45,194: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:15:31,605: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:15:31,606: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:15:31,608: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:19:11,154: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-04 14:19:11,157: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-04 14:19:11,161: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-05-04 14:19:11,161: INFO: common: created directory at: artifacts]
+[2025-05-04 14:19:11,164: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-05-04 14:19:12,274: INFO: 251335794: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F683:6B9E8:1B9D79:458DDA:68172A04
+Accept-Ranges: bytes
+Date: Sun, 04 May 2025 08:49:15 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4751-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1746348555.130046,VS0,VE380
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: db0003647eaacdc9622d874972bbda2a2b2ac229
+Expires: Sun, 04 May 2025 08:54:15 GMT
+Source-Age: 0
+
+]
