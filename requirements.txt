@@ -1,4 +1,4 @@
-pandas
+pandas 
 mlflow
 notebook
 numpy
@@ -9,6 +9,6 @@ pyYAML
 tqdm
 ensure
 joblib
-types-pyYAML
+types-PyYAML
 Flask
 Flask-Cors
